@@ -7,3 +7,4 @@ checkpoints/
 images/
 venv/
 .vscode
+*.bak
