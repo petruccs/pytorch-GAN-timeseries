@@ -6,3 +6,4 @@ clean_last_experiment.py
 checkpoints/
 images/
 venv/
+.vscode
